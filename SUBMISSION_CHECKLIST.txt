@@ -1,0 +1,8 @@
+SUBMISSION CHECKLIST
+[ ] Replace student/institute placeholders in Project_Report.docx and Final_Presentation.pptx.
+[ ] Run the app on your Windows laptop using the README instructions.
+[ ] Add sample subjects and generate a timetable.
+[ ] Test CSV download and study-session logging.
+[ ] Fill the Actual Result column in the report based on your own test.
+[ ] Capture screenshots of the running app and add them to the screenshots folder.
+[ ] Be ready to explain that the timetable is rule-based and the Gemini assistant is the optional generative-AI component.
